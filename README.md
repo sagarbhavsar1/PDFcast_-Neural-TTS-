@@ -16,7 +16,7 @@ Perfect for turning research papers, reports, articles, or any text document int
 ## ✨ Key Features
 
 - 📄 **PDF Intelligence**: Process documents up to 50MB with advanced text extraction
-- 🎭 **Dual-Host Format**: AI-generated dialogue between two hosts (Joanna & Matthew) with distinct personalities
+- 🎭 **Dual-Host Format**: AI-generated dialogue between two hosts (Danielle & Stephen) with distinct personalities
 - 🎧 **Studio-Quality Audio**: Lifelike speech using AWS Polly neural voice technology
 - ⏱️ **Perfect Duration**: Automatically generates 10-15 minute podcast episodes
 - 💬 **Natural Conversation**: Includes intuitive pauses, emphasis, and conversational elements
@@ -84,7 +84,7 @@ Perfect for turning research papers, reports, articles, or any text document int
 5. **Audio Synthesis**
 
    - AWS Polly generates high-quality neural TTS audio
-   - Host A uses Joanna voice, Host B uses Matthew voice
+   - Host A uses Danielle voice, Host B uses Stephen voice
    - Audio segments are processed with appropriate timing and pauses
 
 6. **Post-Processing**
